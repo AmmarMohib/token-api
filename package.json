@@ -1,0 +1,22 @@
+{
+  "name": "token_ge_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "agora-token": "^2.0.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
